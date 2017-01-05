@@ -7,7 +7,7 @@
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Mohammad Akhtar",
+  "author": "Mohammad Akhtar.",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
