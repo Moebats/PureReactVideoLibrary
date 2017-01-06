@@ -72,7 +72,7 @@ var VideoApp = React.createClass({
         <h1 className="main-title">Video Library</h1>
 
         <div className="row">
-          <div className = "column small-centered small-11 medium-8 large-8">
+          <div className = "column small-centered small-11 medium-11 large-11">
           <div className="container">
 
             <Search className ="search" search={this.searchFunction}/>
