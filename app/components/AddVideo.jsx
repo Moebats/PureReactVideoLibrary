@@ -20,9 +20,9 @@ var AddVideo = React.createClass({
       <div className="addVideo">
         <form onSubmit={this.sendData}>
           <label>Enter Video name:</label>
-          <input className="inputBorder" type="text" ref="name"/>
+          <input value="Ronaldoooooooooooooo" className="inputBorder" type="text" ref="name"/>
           <label>Enter link:</label>
-          <input className="inputBorder" type="url" ref="url"/>
+          <input  value="https://www.youtube.com/watch?v=9BsSPoVTRsQ" className="inputBorder" type="url" ref="url"/>
           <br></br>
           <button className="buttonAdd">Add Video</button>
         </form>
