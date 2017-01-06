@@ -1,1 +1,1 @@
-Boilerplate React App
+Pure React video library app.
